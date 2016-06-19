@@ -36,14 +36,7 @@ export class SchedulePage {
           this.schedule.calc(geos).then((results) => {
               for (var i=0; i < results.length; i++) {
                   this.delivery[i].distance = results[i].distance.text;
-                  
-                  if (results[i].duration_in_traffic.value > results[i].duration.value) {
-                      this.delivery[i].traffic = true;
-                      this.delivery[i].duration = results[i].duration_in_traffic.text;
-                  } else {
-                      this.delivery[i].traffic = false;
-                      this.delivery[i].duration = results[i].duration.text;
-                  }
+                  this.delivery[i].duration = results[i].duration.text;
               }
           })
           

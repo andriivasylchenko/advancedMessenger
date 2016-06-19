@@ -11,7 +11,7 @@
           <ion-item-divider light>{{time}}:00</ion-item-divider>  
         <ion-item *ngFor="let item of delivery | timedivider: [time]" [style.text-decoration] = "item.delivered ? 'line-through' : 'none'" (click)="displayDetails(item)">
             <ion-avatar item-left>
-                <div class="road-time" [style.color] = "item.traffic ? 'red' : 'green'">{{item.duration}}</div>
+                <div class="road-time">{{item.duration}}</div>
                 <p class="distance">{{item.distance}}</p>
             </ion-avatar>    
             

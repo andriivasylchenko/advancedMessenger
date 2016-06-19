@@ -61,11 +61,7 @@ export class ScheduleProvider {
       let googleParams = 'origins=' + origin + '&destinations=' + destinations + '&departure_time=' + curtime + '&traffic_model=best_guess';
       
       console.log('---> googleParams', googleParams);
-  	  let APIkey = 'AIzaSyBueyWlMEcGdIOra-YbzmM3-a1hPc9NzPA';
-
-      console.debug('Using Google API key - ', APIkey);
-
-      let path = 'https://maps.googleapis.com:443/maps/api/distancematrix/json?' + googleParams + '&key=' + APIkey
+      let path = 'https://maps.googleapis.com:443/maps/api/distancematrix/json?' + googleParams
 
       this.http.get(path)
         .map(res => res.json())
