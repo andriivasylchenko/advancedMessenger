@@ -1,0 +1,20 @@
+<ion-navbar *navbar secondary>
+  <ion-title>Our heroes</ion-title>
+</ion-navbar>
+
+<ion-content class="page1">
+
+<ion-list>
+  <ion-item *ngFor="let item of items let i=index">
+    <ion-thumbnail item-left>
+      <img [src]="item.picture.thumbnail">
+    </ion-thumbnail>
+    <h2 class="capitalize">{{item.name.first}} {{item.name.last}}</h2>
+    <p>@{{item.login.username}}</p>
+    <ion-note item-right>
+        {{i + 1}}
+    </ion-note>
+  </ion-item>
+</ion-list>
+
+</ion-content>
