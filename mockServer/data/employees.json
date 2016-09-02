@@ -1,0 +1,729 @@
+{
+  "results": [{
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "britney",
+      "last": "lee"
+    },
+    "location": {
+      "street": "4212 queensway",
+      "city": "wells",
+      "state": "durham",
+      "postcode": "N5B 0DG"
+    },
+    "email": "britney.lee@example.com",
+    "login": {
+      "username": "browntiger867",
+      "password": "aardvark",
+      "salt": "63OlsoHH",
+      "md5": "cd340f5d9076a263b1acc9246c263c3d",
+      "sha1": "7a6bd0a189c1d394f7258c06d04ac3494164f23f",
+      "sha256": "7debed723c881c5b5f06b785cf68e27bb635aa3a151c4092e0db6e64226482f3"
+    },
+    "registered": 1267331487,
+    "dob": 97255696,
+    "phone": "015395 89602",
+    "cell": "0771-344-183",
+    "id": {
+      "name": "NINO",
+      "value": "EL 13 20 97 G"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/23.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "freddie",
+      "last": "reynolds"
+    },
+    "location": {
+      "street": "6498 school lane",
+      "city": "truro",
+      "state": "gwynedd county",
+      "postcode": "DP9 4HZ"
+    },
+    "email": "freddie.reynolds@example.com",
+    "login": {
+      "username": "blackrabbit688",
+      "password": "alpha",
+      "salt": "t92EPGbd",
+      "md5": "b165e8c3b330b3e5dadd75fe725787d8",
+      "sha1": "03cd2294e831b45a59abbb62255b5803be02267e",
+      "sha256": "0d5317fe03e9cec0c8f7f76012ae000181252f8563c23a079f0be988d368e6e5"
+    },
+    "registered": 982819344,
+    "dob": 149035615,
+    "phone": "016977 9054",
+    "cell": "0747-756-122",
+    "id": {
+      "name": "NINO",
+      "value": "EB 49 56 67 Y"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/63.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "vicki",
+      "last": "vargas"
+    },
+    "location": {
+      "street": "2090 victoria road",
+      "city": "londonderry",
+      "state": "leicestershire",
+      "postcode": "TH32 1WZ"
+    },
+    "email": "vicki.vargas@example.com",
+    "login": {
+      "username": "bigdog129",
+      "password": "vvvvv",
+      "salt": "vPust9L1",
+      "md5": "0defcc20b9a719864e46f0e767cc2b4c",
+      "sha1": "45e1aaf6343667098a221547cfaa8c230282c661",
+      "sha256": "66e47596cdd2b9cee50adacf553be8bdec9982ab81779aa4086729929fa95573"
+    },
+    "registered": 1137809300,
+    "dob": 1221947704,
+    "phone": "0151 555 0074",
+    "cell": "0767-382-505",
+    "id": {
+      "name": "NINO",
+      "value": "YH 17 53 51 W"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "wyatt",
+      "last": "willis"
+    },
+    "location": {
+      "street": "2029 york road",
+      "city": "portsmouth",
+      "state": "surrey",
+      "postcode": "CL1 8NN"
+    },
+    "email": "wyatt.willis@example.com",
+    "login": {
+      "username": "crazymouse981",
+      "password": "waldo",
+      "salt": "nDgq9x3b",
+      "md5": "58f0bd7853e3f946c08ef1e20f242b71",
+      "sha1": "b49bfe33a3888e9902de6e91efbaeb5efdd28a52",
+      "sha256": "34511c941573c207f9d4f0b62c9f386875bbb416e65834c9f549c76a901f8e81"
+    },
+    "registered": 1269090409,
+    "dob": 1151953974,
+    "phone": "015396 47310",
+    "cell": "0783-759-574",
+    "id": {
+      "name": "NINO",
+      "value": "CN 30 47 65 T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "dave",
+      "last": "douglas"
+    },
+    "location": {
+      "street": "4610 park lane",
+      "city": "glasgow",
+      "state": "south yorkshire",
+      "postcode": "V52 2RQ"
+    },
+    "email": "dave.douglas@example.com",
+    "login": {
+      "username": "purpleelephant969",
+      "password": "leonardo",
+      "salt": "1fLbww6e",
+      "md5": "2163ef204826901635c6c077df43e5f8",
+      "sha1": "f4e28ad0ff4e48d31aa011ec6b42b48298c7653f",
+      "sha256": "e33acbccc7b517a6e8d65690eba042ba219aa649e0ea1572f791aabfab24c0a4"
+    },
+    "registered": 1102341972,
+    "dob": 1087487524,
+    "phone": "01518 193217",
+    "cell": "0702-987-144",
+    "id": {
+      "name": "NINO",
+      "value": "HB 14 84 62 X"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/75.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "lisa",
+      "last": "barnes"
+    },
+    "location": {
+      "street": "7794 manor road",
+      "city": "canterbury",
+      "state": "avon",
+      "postcode": "M0Z 4LZ"
+    },
+    "email": "lisa.barnes@example.com",
+    "login": {
+      "username": "lazyleopard789",
+      "password": "loretta",
+      "salt": "YIaNfVql",
+      "md5": "0c455ec36eda207e48f35d07237bd907",
+      "sha1": "26e93cd31dc84f4d190177c58a3943d8d145f2c9",
+      "sha256": "43a8914fb1cdc55076ab19fd81321c7b11c0af6429e1ca4c55173f3a14b19547"
+    },
+    "registered": 1282070063,
+    "dob": 393418474,
+    "phone": "019467 20004",
+    "cell": "0700-782-120",
+    "id": {
+      "name": "NINO",
+      "value": "EA 75 74 75 X"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/17.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "heidi",
+      "last": "george"
+    },
+    "location": {
+      "street": "7715 new street",
+      "city": "city of london",
+      "state": "surrey",
+      "postcode": "N7A 1WR"
+    },
+    "email": "heidi.george@example.com",
+    "login": {
+      "username": "ticklishtiger760",
+      "password": "20012001",
+      "salt": "bGXRtwJ8",
+      "md5": "bb41d2ee663ecb2b4c8c86a5f4690526",
+      "sha1": "c0b0815757ac886741a944f2ab86786569702a3f",
+      "sha256": "153e866725d8c0bca1482c1ded64f4ef3b2ffe35f610a2d174362b54a2c4e4be"
+    },
+    "registered": 1026366249,
+    "dob": 175297136,
+    "phone": "017684 47595",
+    "cell": "0718-247-491",
+    "id": {
+      "name": "NINO",
+      "value": "OR 46 74 54 B"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "christopher",
+      "last": "wells"
+    },
+    "location": {
+      "street": "2283 george street",
+      "city": "ely",
+      "state": "east sussex",
+      "postcode": "SB67 8YF"
+    },
+    "email": "christopher.wells@example.com",
+    "login": {
+      "username": "blackmouse530",
+      "password": "kendall",
+      "salt": "Bd1XwwpZ",
+      "md5": "5613c469cf756ef008504c4d492df458",
+      "sha1": "a37757927ca852322b6b180eb5deb0784ca95554",
+      "sha256": "80701204f7da86fc66011ac4550c10332ba07afb38368758be589adb39f9aea5"
+    },
+    "registered": 1161897589,
+    "dob": 618239081,
+    "phone": "017684 37688",
+    "cell": "0771-755-325",
+    "id": {
+      "name": "NINO",
+      "value": "MS 67 09 12 Z"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/45.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "amelia",
+      "last": "carter"
+    },
+    "location": {
+      "street": "2286 the grove",
+      "city": "st albans",
+      "state": "herefordshire",
+      "postcode": "Q2E 3YQ"
+    },
+    "email": "amelia.carter@example.com",
+    "login": {
+      "username": "blackleopard666",
+      "password": "wayne",
+      "salt": "MmSxVmzB",
+      "md5": "4855aeb8808dc9d90b65d371ee05f9ff",
+      "sha1": "03e7d0f1efc44b0dd8f6a69a3df256362913e543",
+      "sha256": "9aeec2f315777fd9d952d1b2980308f0e6898bece940f62d363d716efe05704c"
+    },
+    "registered": 1433306427,
+    "dob": 1406445731,
+    "phone": "0121 819 3888",
+    "cell": "0727-584-908",
+    "id": {
+      "name": "NINO",
+      "value": "ET 42 78 47 N"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "kristin",
+      "last": "griffin"
+    },
+    "location": {
+      "street": "2857 park road",
+      "city": "coventry",
+      "state": "worcestershire",
+      "postcode": "CG64 8RN"
+    },
+    "email": "kristin.griffin@example.com",
+    "login": {
+      "username": "redmeercat750",
+      "password": "jezebel",
+      "salt": "UfO47Ywh",
+      "md5": "dcacba5a8199658abe9a7f31fa40f9e3",
+      "sha1": "21fbf825cb46a38d115d16daac17570164daa09d",
+      "sha256": "df746833481fe93872897a041680531058af76ffd6c49da0ecbeaa840d54d9b7"
+    },
+    "registered": 1020078149,
+    "dob": 697487844,
+    "phone": "017687 77653",
+    "cell": "0733-781-170",
+    "id": {
+      "name": "NINO",
+      "value": "JA 65 29 87 E"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/49.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "taylor",
+      "last": "soto"
+    },
+    "location": {
+      "street": "1784 new road",
+      "city": "bristol",
+      "state": "northamptonshire",
+      "postcode": "WL1X 4EW"
+    },
+    "email": "taylor.soto@example.com",
+    "login": {
+      "username": "bigwolf473",
+      "password": "cannabis",
+      "salt": "LAf6CMsP",
+      "md5": "b3cce4325ffba3b7ce7d9d5b5b849501",
+      "sha1": "77321f6e59e3041c83f6a958038fd489105843f2",
+      "sha256": "139d96aa1606156005c8b262df28ef2e1df549d6125f1892352b9260a918e690"
+    },
+    "registered": 952647990,
+    "dob": 540500678,
+    "phone": "013873 00836",
+    "cell": "0782-839-601",
+    "id": {
+      "name": "NINO",
+      "value": "NG 20 60 31 I"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/94.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "josef",
+      "last": "gregory"
+    },
+    "location": {
+      "street": "1440 park avenue",
+      "city": "armagh",
+      "state": "dyfed",
+      "postcode": "L5 1UX"
+    },
+    "email": "josef.gregory@example.com",
+    "login": {
+      "username": "bigostrich520",
+      "password": "3030",
+      "salt": "pywAP4rB",
+      "md5": "604949f8d09173dc357dd549b3077bff",
+      "sha1": "b0edc07b0c08d2ce2d4cffcf2b22b8e76e9b3919",
+      "sha256": "d69b05b6d735dcf8248d63c68fedcc59c9c63ebf8d5476684a485ecae417b9a5"
+    },
+    "registered": 1158641905,
+    "dob": 371532546,
+    "phone": "015395 44527",
+    "cell": "0726-021-497",
+    "id": {
+      "name": "NINO",
+      "value": "ZH 61 31 44 N"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/61.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "russell",
+      "last": "reyes"
+    },
+    "location": {
+      "street": "6853 mill road",
+      "city": "wakefield",
+      "state": "nottinghamshire",
+      "postcode": "C3 1WD"
+    },
+    "email": "russell.reyes@example.com",
+    "login": {
+      "username": "crazylion191",
+      "password": "confused",
+      "salt": "mWgidiuQ",
+      "md5": "4fc573049dfb434ddac85f61221b3bf6",
+      "sha1": "90e801bf789e3f928935d7e2cd12ca013536fa02",
+      "sha256": "22b8fbe5537dd62eb9c4568fec2aadbc8d5d6b7848bbc3bef0f7e2e06f819148"
+    },
+    "registered": 923477234,
+    "dob": 645270262,
+    "phone": "017687 73126",
+    "cell": "0734-104-804",
+    "id": {
+      "name": "NINO",
+      "value": "RS 85 66 67 M"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/5.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "emma",
+      "last": "byrd"
+    },
+    "location": {
+      "street": "5524 park avenue",
+      "city": "edinburgh",
+      "state": "tyne and wear",
+      "postcode": "RL54 6JY"
+    },
+    "email": "emma.byrd@example.com",
+    "login": {
+      "username": "redmouse106",
+      "password": "jamesbon",
+      "salt": "e3LAzc1z",
+      "md5": "06e7ba57524031a42b9d29f07cd65475",
+      "sha1": "647bc041d0348bd4a30eda58313f614236fcc041",
+      "sha256": "c70896d4eae3410d46ba31ac06e4421c6a23120da604832631a4ed9fc559990e"
+    },
+    "registered": 1167487456,
+    "dob": 134610551,
+    "phone": "016973 61130",
+    "cell": "0724-991-000",
+    "id": {
+      "name": "NINO",
+      "value": "KZ 22 29 96 V"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "isabella",
+      "last": "richardson"
+    },
+    "location": {
+      "street": "3203 victoria street",
+      "city": "stoke-on-trent",
+      "state": "county down",
+      "postcode": "AG7Z 8XG"
+    },
+    "email": "isabella.richardson@example.com",
+    "login": {
+      "username": "smallbird356",
+      "password": "marvel",
+      "salt": "HU78q2xb",
+      "md5": "63bf9fbc495847533264a0d61ece1fe4",
+      "sha1": "df62d8a34b348cb3e98b421f03baa7e2879eb032",
+      "sha256": "3cf69dcf3276ceb1486238264085e6a06d790e95fffe4bdd2c318b3d909a8bc2"
+    },
+    "registered": 973855865,
+    "dob": 221191710,
+    "phone": "015396 07477",
+    "cell": "0763-771-722",
+    "id": {
+      "name": "NINO",
+      "value": "RH 17 89 09 T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/72.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "rene",
+      "last": "steward"
+    },
+    "location": {
+      "street": "6339 victoria road",
+      "city": "edinburgh",
+      "state": "west sussex",
+      "postcode": "QN70 7AN"
+    },
+    "email": "rene.steward@example.com",
+    "login": {
+      "username": "redtiger123",
+      "password": "chicks",
+      "salt": "JUTh7UYa",
+      "md5": "c0bf88d5708e467831ecb88c6363a739",
+      "sha1": "149cc017d9b99cecf37137ad2e3824f5790d8890",
+      "sha256": "1e5549dfca24c41bc6f6ceba5ce636651e79b69623c61fd6de8e3040872e3865"
+    },
+    "registered": 1114642246,
+    "dob": 936653594,
+    "phone": "016977 32212",
+    "cell": "0796-933-583",
+    "id": {
+      "name": "NINO",
+      "value": "BR 42 66 52 E"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "abigail",
+      "last": "fields"
+    },
+    "location": {
+      "street": "4194 school lane",
+      "city": "bradford",
+      "state": "county londonderry",
+      "postcode": "XO7 4QH"
+    },
+    "email": "abigail.fields@example.com",
+    "login": {
+      "username": "heavyleopard242",
+      "password": "cheyenne",
+      "salt": "iRfUmAmU",
+      "md5": "643e7da3a3095f1fc56e78f57437c661",
+      "sha1": "f2e3c3077839f26f145a543fd532d7eb85bcb67f",
+      "sha256": "83e3c8eed929c81ea76d8ef7fd039b137d68a7fdd52306c278f1191396861e78"
+    },
+    "registered": 1176790357,
+    "dob": 897535618,
+    "phone": "01885 03586",
+    "cell": "0721-375-136",
+    "id": {
+      "name": "NINO",
+      "value": "LJ 82 14 28 E"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/80.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "douglas",
+      "last": "thompson"
+    },
+    "location": {
+      "street": "6634 queens road",
+      "city": "ripon",
+      "state": "suffolk",
+      "postcode": "K80 6QF"
+    },
+    "email": "douglas.thompson@example.com",
+    "login": {
+      "username": "ticklishtiger134",
+      "password": "7734",
+      "salt": "SqalxPwl",
+      "md5": "0df139704b915bdf9da3209047f1bc65",
+      "sha1": "21ce1a2e3867d2f2c97b51b4fcae5b3292c6462f",
+      "sha256": "48bda2877b3d0ff8ebbdcd77b34e1118c9a040d51b8a4eec478d13527cef17e5"
+    },
+    "registered": 1037818416,
+    "dob": 515997259,
+    "phone": "01870 829621",
+    "cell": "0788-929-519",
+    "id": {
+      "name": "NINO",
+      "value": "NL 79 04 35 V"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "abby",
+      "last": "lawrence"
+    },
+    "location": {
+      "street": "5033 north road",
+      "city": "dundee",
+      "state": "shropshire",
+      "postcode": "F5 5SJ"
+    },
+    "email": "abby.lawrence@example.com",
+    "login": {
+      "username": "organicmouse803",
+      "password": "jefferso",
+      "salt": "khelXdSR",
+      "md5": "50ebd4639986ce507d64370920e8f454",
+      "sha1": "599a4d332518a1f08c34ba9d40428a8a3445b2f5",
+      "sha256": "f77869c251313a9bd441af05aba90ca4e8768efa79a235b05976f0e31c392734"
+    },
+    "registered": 1359747461,
+    "dob": 118230401,
+    "phone": "016974 59421",
+    "cell": "0742-238-952",
+    "id": {
+      "name": "NINO",
+      "value": "TN 79 51 04 D"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/88.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    },
+    "nat": "GB"
+  }, {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "mike",
+      "last": "thomas"
+    },
+    "location": {
+      "street": "7325 park avenue",
+      "city": "newry",
+      "state": "county armagh",
+      "postcode": "AM53 1HR"
+    },
+    "email": "mike.thomas@example.com",
+    "login": {
+      "username": "crazypanda724",
+      "password": "jacobs",
+      "salt": "NpEFl1G2",
+      "md5": "8f70143d0f85ce94e4a25a54d41b4d66",
+      "sha1": "289ceae3d734b2d01213753eb310a443b380d153",
+      "sha256": "d31930b051ba08cac20efa00f3d77fdd3ebac5451fe76b62d937fd11a9cf44c6"
+    },
+    "registered": 1410512658,
+    "dob": 1394460419,
+    "phone": "015396 24813",
+    "cell": "0729-269-169",
+    "id": {
+      "name": "NINO",
+      "value": "ZH 48 15 63 U"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/7.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    },
+    "nat": "GB"
+  }],
+  "info": {
+    "seed": "b3508f283629686d",
+    "results": 20,
+    "page": 1,
+    "version": "1.0"
+  }
+}
