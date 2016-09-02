@@ -1,0 +1,17 @@
+
+<ion-navbar *navbar secondary>
+  <ion-title>
+    Latest news
+  </ion-title>
+</ion-navbar>
+
+<ion-content class="page2">
+    <ion-card *ngFor="let item of news">
+    <ion-card-header>
+        {{item.json.date | date}}
+    </ion-card-header>
+    <ion-card-content>
+        {{item.json.text}}
+    </ion-card-content>
+    </ion-card>
+</ion-content>
